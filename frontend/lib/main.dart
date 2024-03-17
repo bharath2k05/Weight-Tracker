@@ -1,8 +1,8 @@
 // // main.dart
 // import 'package:flutter/material.dart';
-// import 'screens/home_page.dart'; // Import the home page
-// import 'screens/data_retrieval_page.dart'; // Import the data retrieval page
-// import 'screens/signin_page.dart'; // Import the sign-in page
+// import 'screens/home_page.dart'; 
+// import 'screens/data_retrieval_page.dart'; 
+// import 'screens/signin_page.dart'; 
 
 // void main() {
 //   runApp(MyApp());
@@ -16,11 +16,11 @@
 //       theme: ThemeData(
 //         primarySwatch: Colors.blue,
 //       ),
-//       // initialRoute: '/login', // Specify the initial route
+//       // initialRoute: '/login', 
 //       routes: {
-//         '/login': (context) => SignInPage(), // Route for the sign-in page
-//         '/home': (context) => HomePage(), // Route for the home page
-//         '/dataRetrieval': (context) => DataRetrievalPage(), // Route for the data retrieval page
+//         '/login': (context) => SignInPage(),
+//         '/home': (context) => HomePage(), 
+//         '/dataRetrieval': (context) => DataRetrievalPage(), 
 //       },
 //     );
 //   }
